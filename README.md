@@ -22,4 +22,4 @@ The repository with some `C` source files.
 
 # Author
 
-Rejepgeldiyev Seyitmuhammet
+Rejepgeldiyev Seyitmuhammet 
